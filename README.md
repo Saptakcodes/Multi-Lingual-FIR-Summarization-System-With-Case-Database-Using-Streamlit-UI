@@ -82,10 +82,10 @@ Bengali (বাংলা), Hindi (हिन्दी), Telugu (తెలుగ�
 > Interact with the AI assistant using natural language queries – it understands dates, names, and case numbers.
 
 ![Chat 1](images/stl-pic-10.png)  
-![Chat 2](images/stl-pic-11.png)  
-![Chat 3](images/stl-pic-12.png)  
-![Chat 4](images/stl-pic-13.png)  
-![Chat 5](images/stl-pic-14.png)
+![Chat 2](images/stl-pic-11.jpg)  
+![Chat 3](images/stl-pic-12.jpg)  
+![Chat 4](images/stl-pic-13.jpg)  
+![Chat 5](images/stl-pic-14.jpg)
 
 ---
 
