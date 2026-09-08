@@ -1,0 +1,2 @@
+# Multi-Lingual-FIR-Summarization-System-With-Case-Database-Using-Streamlit-UI
+FIR Sahayak: Fast, accurate AI e-Police Desk. Upload FIR → OCR, summarization, 12-language translation. Natural language search by date, FIR#, name, complainant/accused. Local DB with advanced filters. Streamlit UI, Python/FastAPI, Tesseract OCR, Qwen model. Fully offline, zero external APIs. Secure case management for law enforcement.
